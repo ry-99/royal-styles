@@ -1,23 +1,23 @@
 {
-    "version":  "1.6.0+mc1.21.11",
-    "url":  "https://raw.githubusercontent.com/ry-99/royal-styles/main/royal-styles-1.6.0-mc1.21.11.jar",
-    "sha256":  "9b2bd950dec60f68765a0e34a29128c1abeedfcb691bda346723f419c0fbe226",
+    "version":  "1.6.1+mc1.21.11",
+    "url":  "https://raw.githubusercontent.com/ry-99/royal-styles/main/royal-styles-1.6.1-mc1.21.11.jar",
+    "sha256":  "87bfeeba0264d056c6fbc9f8adde0df652adbf88cb27719491bfb9ef281174b8",
     "notes":  [
                   [
                       "NEW",
-                      "Void glass theme with neon edges"
+                      "Refined Royal brown: calmer, warmer, easier on the eyes"
                   ],
                   [
                       "NEW",
-                      "Neon presets: Amethyst, Cyber Cyan, Neon Gold, Eclipse"
+                      "Bronze lit frame and warm gold/copper controls"
                   ],
                   [
                       "NEW",
-                      "Glowing toggles and gradient sliders"
+                      "Cleaner theme panel with section rules"
                   ],
                   [
                       "NEW",
-                      "Holographic crystal preview stage"
+                      "Warm amber stage for the crystal preview"
                   ]
               ]
 }
