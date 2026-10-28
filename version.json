@@ -1,8 +1,10 @@
 {
-  "version": "1.5.1+mc1.21.11",
-  "url": "https://raw.githubusercontent.com/ry-99/royal-styles/main/royal-styles-1.5.1-mc1.21.11.jar",
-  "sha256": "639bed103621f85530519bcc8abf72e3f7edd65b536719abc06f61d6522e274c",
+  "version": "1.5.2+mc1.21.11",
+  "url": "https://raw.githubusercontent.com/ry-99/royal-styles/main/royal-styles-1.5.2-mc1.21.11.jar",
+  "sha256": "106526ae01d2d798f3f6ba1fbff4c7a9dbd3587b5c15c26abc004e836472c1b4",
   "notes": [
-    ["NEW", "Royal Styles"]
+    ["NEW", "Smooth scrolling and card motion"],
+    ["NEW", "Gold dust, title shine, crown glow"],
+    ["NEW", "Royal corner marks on cards"]
   ]
 }
