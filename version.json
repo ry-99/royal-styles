@@ -1,27 +1,23 @@
 {
-    "version":  "1.7.0+mc1.21.11",
-    "url":  "https://raw.githubusercontent.com/ry-99/royal-styles/main/royal-styles-1.7.0-mc1.21.11.jar",
-    "sha256":  "ac51cef64404f1c4fcf555e541b090e58c15632c200dc17d837e90a48d1dae6f",
+    "version":  "1.7.1+mc1.21.11",
+    "url":  "https://raw.githubusercontent.com/ry-99/royal-styles/main/royal-styles-1.7.1-mc1.21.11.jar",
+    "sha256":  "763e8f3f4aa8d566a89501d33c7a2e7c139e36c154fd642133170e5fed9aa5cd",
     "notes":  [
                   [
                       "NEW",
-                      "Floating glass islands and a category carousel"
+                      "Spring scrolling with momentum and rubber-band edges"
                   ],
                   [
                       "NEW",
-                      "Slim icon dock: Vault, Tweaks, Packs, Looks"
+                      "Weighted spring toggles that overshoot and settle"
                   ],
                   [
                       "NEW",
-                      "Bigger, clearer options and silky motion"
+                      "Sliders follow the mouse with zero lag"
                   ],
                   [
                       "NEW",
-                      "Floating crystal pedestal with rim light"
-                  ],
-                  [
-                      "NEW",
-                      "Royal Crown cape replaces Tornado Night"
+                      "Category carousel glides on a spring"
                   ]
               ]
 }
