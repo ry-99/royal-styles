@@ -1,23 +1,27 @@
 {
-    "version":  "1.6.1+mc1.21.11",
-    "url":  "https://raw.githubusercontent.com/ry-99/royal-styles/main/royal-styles-1.6.1-mc1.21.11.jar",
-    "sha256":  "87bfeeba0264d056c6fbc9f8adde0df652adbf88cb27719491bfb9ef281174b8",
+    "version":  "1.7.0+mc1.21.11",
+    "url":  "https://raw.githubusercontent.com/ry-99/royal-styles/main/royal-styles-1.7.0-mc1.21.11.jar",
+    "sha256":  "ac51cef64404f1c4fcf555e541b090e58c15632c200dc17d837e90a48d1dae6f",
     "notes":  [
                   [
                       "NEW",
-                      "Refined Royal brown: calmer, warmer, easier on the eyes"
+                      "Floating glass islands and a category carousel"
                   ],
                   [
                       "NEW",
-                      "Bronze lit frame and warm gold/copper controls"
+                      "Slim icon dock: Vault, Tweaks, Packs, Looks"
                   ],
                   [
                       "NEW",
-                      "Cleaner theme panel with section rules"
+                      "Bigger, clearer options and silky motion"
                   ],
                   [
                       "NEW",
-                      "Warm amber stage for the crystal preview"
+                      "Floating crystal pedestal with rim light"
+                  ],
+                  [
+                      "NEW",
+                      "Royal Crown cape replaces Tornado Night"
                   ]
               ]
 }
