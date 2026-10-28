@@ -1,10 +1,23 @@
 {
-  "version": "1.5.2+mc1.21.11",
-  "url": "https://raw.githubusercontent.com/ry-99/royal-styles/main/royal-styles-1.5.2-mc1.21.11.jar",
-  "sha256": "106526ae01d2d798f3f6ba1fbff4c7a9dbd3587b5c15c26abc004e836472c1b4",
-  "notes": [
-    ["NEW", "Smooth scrolling and card motion"],
-    ["NEW", "Gold dust, title shine, crown glow"],
-    ["NEW", "Royal corner marks on cards"]
-  ]
+    "version":  "1.6.0+mc1.21.11",
+    "url":  "https://raw.githubusercontent.com/ry-99/royal-styles/main/royal-styles-1.6.0-mc1.21.11.jar",
+    "sha256":  "9b2bd950dec60f68765a0e34a29128c1abeedfcb691bda346723f419c0fbe226",
+    "notes":  [
+                  [
+                      "NEW",
+                      "Void glass theme with neon edges"
+                  ],
+                  [
+                      "NEW",
+                      "Neon presets: Amethyst, Cyber Cyan, Neon Gold, Eclipse"
+                  ],
+                  [
+                      "NEW",
+                      "Glowing toggles and gradient sliders"
+                  ],
+                  [
+                      "NEW",
+                      "Holographic crystal preview stage"
+                  ]
+              ]
 }
